@@ -1,0 +1,20 @@
+<?php
+
+$s_plugin_DownloadFiles_ = '';
+$s_plugin_DownloadFiles_title = 'Download files';
+$s_plugin_DownloadFiles_description = 'It is intended for downloading selected files from a single archive request';
+$s_plugin_DownloadFiles_name_link = 'Download files from the bug';
+$s_plugin_DownloadFiles_submit_download = 'Download files';
+$s_plugin_DownloadFiles_submit_mark = 'Select all';
+$s_plugin_DownloadFiles_submit_uncheck = 'Uncheck marks';
+$s_plugin_DownloadFiles_submit_invert = 'Invert selection';
+// $s_plugin_DownloadFiles_for_bug = 'from the bug';
+$s_plugin_DownloadFiles_user = 'User';
+$s_plugin_DownloadFiles_size = 'KB';
+$s_plugin_DownloadFiles_file_size = 'Size';
+$s_plugin_DownloadFiles_file = 'File';
+$s_plugin_DownloadFiles_date = 'Upload date';
+$s_plugin_DownloadFiles_download = 'Download';
+$s_plugin_DownloadFiles_file_type = 'File type';
+$s_plugin_DownloadFiles_please_wait = 'Please wait while loading contents...';
+

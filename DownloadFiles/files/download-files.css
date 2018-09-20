@@ -1,0 +1,10 @@
+
+div.dialog {
+    display: none;
+}
+
+div.files_download {
+    display: block;
+    overflow: auto;
+    max-height: 65vh;
+}
