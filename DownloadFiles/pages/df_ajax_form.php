@@ -181,7 +181,7 @@ class DownloadFiles
 			// http_security_headers();
 			header('Content-Description: File Transfer');
 			header('Content-Type: application/octet-stream');
-			header('Content-Disposition: attachment; filename="issue#' . $this->t_bug_id . '.zip"');
+			header('Content-Disposition: attachment; filename="' . $_POST['number_issue'] . '.zip"');
 			header('Content-Transfer-Encoding: binary');
 			header('Expires: 0');
 			header('Cache-Control: must-revalidate');
