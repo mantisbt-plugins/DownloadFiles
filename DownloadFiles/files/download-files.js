@@ -7,6 +7,7 @@ jQuery(document).ready(function($) {
 			selection_file.attr({"checked":true});
 		} else {
 			selection_file.attr({"checked":false});
+		}
 	};
 	
 	var click_set_checked_all = function (e){
