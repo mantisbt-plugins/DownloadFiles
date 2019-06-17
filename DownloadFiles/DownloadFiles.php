@@ -27,11 +27,12 @@ class DownloadFilesPlugin extends MantisPlugin
 	function register() {
 		$this->name = plugin_lang_get( 'title' );
 		$this->description = plugin_lang_get( 'description' );
-		$this->page = 'DownloadFiles';
+		//$this->page = 'DownloadFiles';
 
 		$this->version = '1.0';
 		$this->requires = array(
 			'MantisCore' => '2.0, < 3.0',
+			"jQueryUI" => "1.8"
 		);
 
 		$this->author = 'Anatoly Kabakov';
