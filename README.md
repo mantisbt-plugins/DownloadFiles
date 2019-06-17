@@ -9,8 +9,15 @@ Mantis plugin: adds to the bug the ability to download selected files in one arc
 ![alt text](Screenshots/DownloadFiles.png)
 
 
+## Requirements
+
+The plugin requires 
+
+  * [MantisBT](http://mantisbt.org/) version 2.2 or higher
+  * [jQueryUI plugin](https://github.com/mantisbt-plugins/jQuery-UI) 
+    version 1.8 or higher
+
 ## Info ##
-- Requires MantisBT >2.0.0
 - Multi language support
 - Inspired by [issue#12297](https://www.mantisbt.org/bugs/view.php?id=12297)
 
