@@ -1,0 +1,16 @@
+<?php
+
+$s_plugin_DownloadFiles_ = '';
+$s_plugin_DownloadFiles_title = 'Datei Download';
+$s_plugin_DownloadFiles_description = 'Lädt Dateianhänge eines Bugs, gesammelt in ein Archiv.';
+$s_plugin_DownloadFiles_name_link = 'Angehängte Dateien zum Bug';
+$s_plugin_DownloadFiles_submit_download = 'Download';
+$s_plugin_DownloadFiles_user = 'Benutzer';
+$s_plugin_DownloadFiles_size = 'KB';
+$s_plugin_DownloadFiles_file_size = 'Dateigröße';
+$s_plugin_DownloadFiles_file = 'Datei';
+$s_plugin_DownloadFiles_date = 'Upload Datum';
+$s_plugin_DownloadFiles_download = 'Download';
+$s_plugin_DownloadFiles_file_type = 'Dateityp';
+$s_plugin_DownloadFiles_please_wait = 'Bitte warten Inhalt wird geladen...';
+
